@@ -1,7 +1,5 @@
 # MyProject_Lecturer
 Web-Based Comprehensive Examination Systems (Lecturer Systems)
-# MyProject (Coordinator)
-Web-Based Comprehensive Examination Systems 
 - **Manage Examination** 
 - **Create Comprehensive Examination**
 - **Import** and Export Examination
