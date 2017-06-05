@@ -6,7 +6,10 @@ Web-Based Comprehensive Examination Systems (Lecturer Systems)
 - Random Examination
 - Make Project by HTML, PHP, CSS and MySQL 
 
-# Interface for Random Examination
-- Login by Coordinator ID
-![Picture](https://github.com/tustiras01/MyProject_Coordinator/blob/master/Pic/login.png)
-
+# Interface for Lecturer
+- Index: Lecturer 344-492
+![Picture](https://github.com/tustiras01/MyProject_Lecturer/blob/master/Pic/Lecindex.png)
+- Example: Lecturer Systems
+![Picture](https://github.com/tustiras01/MyProject_Lecturer/blob/master/Pic/Lecturer1.png)
+![Picture](https://github.com/tustiras01/MyProject_Lecturer/blob/master/Pic/Lecturer2.png)
+![Picture](https://github.com/tustiras01/MyProject_Lecturer/blob/master/Pic/Lecturer3.png)
